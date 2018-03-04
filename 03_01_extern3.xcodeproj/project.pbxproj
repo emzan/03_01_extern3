@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F618DC3D204BB56E003BFEEA /* 03_01_extern3_main.c in Sources */ = {isa = PBXBuildFile; fileRef = F618DC3C204BB56E003BFEEA /* 03_01_extern3_main.c */; };
-		F618DC44204BB72E003BFEEA /* 03_01_extern3_manipulate.c in Sources */ = {isa = PBXBuildFile; fileRef = F618DC43204BB72E003BFEEA /* 03_01_extern3_manipulate.c */; };
+		F618DC45204BE698003BFEEA /* 03_01_extern3_main.c in Sources */ = {isa = PBXBuildFile; fileRef = F618DC3C204BB56E003BFEEA /* 03_01_extern3_main.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -122,8 +121,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F618DC3D204BB56E003BFEEA /* 03_01_extern3_main.c in Sources */,
-				F618DC44204BB72E003BFEEA /* 03_01_extern3_manipulate.c in Sources */,
+				F618DC45204BE698003BFEEA /* 03_01_extern3_main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
